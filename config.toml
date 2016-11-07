@@ -1,3 +1,4 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
+baseurl = "http://dangtinh.com.com/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Tinh's Blog"
+theme = "saigon"
